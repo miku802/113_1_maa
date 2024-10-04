@@ -14,4 +14,4 @@ main:
 
         .data
 format:
-	.string	"n = %d\n"
+	.string	"a = %d\n"
